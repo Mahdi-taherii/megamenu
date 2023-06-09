@@ -1,0 +1,26 @@
+*{
+  direction: rtl;
+}
+.list1:hover{
+  background-color: aqua;
+}
+.list0:hover{
+  background-color: aqua;
+
+}
+.list2:hover{
+  background-color: aqua;
+  
+}
+.list2{
+  width: 60px !important;
+  list-style: none;
+}
+.list0{
+  width: 60px !important;
+  list-style: none;
+}
+.list1{
+  width: 60px !important;
+  list-style: none;
+}
